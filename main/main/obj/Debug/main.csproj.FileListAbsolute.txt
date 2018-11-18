@@ -1,0 +1,15 @@
+C:\Users\martin\Documents\repositorios\main\main\bin\Debug\main.exe.config
+C:\Users\martin\Documents\repositorios\main\main\bin\Debug\main.exe
+C:\Users\martin\Documents\repositorios\main\main\bin\Debug\main.pdb
+C:\Users\martin\Documents\repositorios\main\main\obj\Debug\main.csprojAssemblyReference.cache
+C:\Users\martin\Documents\repositorios\main\main\obj\Debug\main.Properties.Resources.resources
+C:\Users\martin\Documents\repositorios\main\main\obj\Debug\main.csproj.GenerateResource.cache
+C:\Users\martin\Documents\repositorios\main\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\martin\Documents\repositorios\main\main\obj\Debug\main.exe
+C:\Users\martin\Documents\repositorios\main\main\obj\Debug\main.pdb
+C:\Users\martin\Documents\repositorios\main\main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\martin\Documents\repositorios\main\main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\martin\Documents\repositorios\main\main\obj\Debug\main.csproj.CopyComplete
+C:\Users\martin\Documents\repositorios\main\main\obj\Debug\main.Form1.resources
+C:\Users\martin\Documents\repositorios\main\main\obj\Debug\main.cars_list.resources
+C:\Users\martin\Documents\repositorios\main\main\obj\Debug\main.about.resources
